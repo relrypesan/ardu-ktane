@@ -1,0 +1,9 @@
+[submodule "ardu-ktane-lib"]
+	path = ardu-ktane-lib
+	url = https://github.com/relrypesan/ardu-ktane-lib.git
+[submodule "ardu-ktane-bomb-core"]
+	path = ardu-ktane-bomb-core
+	url = https://github.com/relrypesan/ardu-ktane-bomb-core.git
+[submodule "ardu-ktane-module-timer"]
+	path = ardu-ktane-module-timer
+	url = https://github.com/relrypesan/ardu-ktane-module-timer.git
