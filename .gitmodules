@@ -7,3 +7,6 @@
 [submodule "ardu-ktane-module-timer"]
 	path = ardu-ktane-module-timer
 	url = https://github.com/relrypesan/ardu-ktane-module-timer.git
+[submodule "ardu-ktane-module-wires"]
+	path = ardu-ktane-module-wires
+	url = https://github.com/relrypesan/ardu-ktane-module-wires.git
